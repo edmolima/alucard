@@ -1,7 +1,7 @@
 {
   "name": "alucard-nocturne",
   "displayName": "Alucard Nocturne",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A sophisticated VS Code theme inspired by Castlevania's aesthetic, featuring both dark and light variants.",
   "publisher": "edmo",
   "bugs": {
